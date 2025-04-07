@@ -1,4 +1,4 @@
-package com.example.designpattern;
+package com.example.designpattern.structural;
 
 public class Proxy {
     public static void main(String[] args) {

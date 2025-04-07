@@ -1,4 +1,4 @@
-package com.example.designpattern;
+package com.example.designpattern.structural;
 
 /**
  * defines a higher-level interface that makes the subsystem easier to use

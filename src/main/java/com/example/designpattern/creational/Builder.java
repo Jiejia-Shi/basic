@@ -1,4 +1,4 @@
-package com.example.designpattern;
+package com.example.designpattern.creational;
 
 /**
  * use the builder to create instances with required and optional parameters.

@@ -1,4 +1,4 @@
-package com.example.designpattern;
+package com.example.designpattern.structural;
 
 import java.util.ArrayList;
 import java.util.List;

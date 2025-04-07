@@ -1,4 +1,4 @@
-package com.example.designpattern;
+package com.example.designpattern.creational;
 
 /**
  * lazy thread safe singleton

@@ -1,4 +1,4 @@
-package com.example.designpattern;
+package com.example.designpattern.creational;
 
 /**
  * the instance is created at the time of class loading
